@@ -32,9 +32,9 @@ This project is a web application developed with React and Node.js, designed for
 1. **Setup:**
 
    - Clone this repository.
-   - Install dependencies for both the React and Vith app and Node.js backend (excluding node modules).
+   - Install dependencies for both the React and Node.js backend (excluding node modules).
 
-     ```
+     ```bash
      # Install server dependencies
      cd server
      npm install
@@ -51,19 +51,23 @@ This project is a web application developed with React and Node.js, designed for
 
 3. **Execution:**
 
-   - Start the Node.js server.
-     ```
+   - **Start the Node.js server:**
+
+     ```bash
      # Start server
      cd server
      node index.js
      ```
-   - Start the React app.
-     ```
+
+   - **Start the React app:**
+
+     ```bash
      # Start client
      cd client
      npm run dev
      ```
+
    - Ensure the application runs smoothly on your local environment.
 
 4. **Contact:**
-   - For any issues or questions, please contact yonatantaub36@gmail.com.
+   - For any issues or questions, please contact yonatantaub36@gmail.com or 0585668625.
