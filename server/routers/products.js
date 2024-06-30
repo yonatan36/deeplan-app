@@ -4,6 +4,7 @@ import ProductModel from "../models/product.js";
 const productRouter = Router();
 
 //Create the products
+//http://localhost:3000/products/loadinitial
 productRouter.get("/loadinitial", async (req, res) => {
   const initialData = [
     {
